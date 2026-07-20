@@ -145,7 +145,6 @@ GitHub: https://github.com/varshi99
 
 LinkedIn: https://www.linkedin.com/in/pavuluri-varshitha-093960244/
 
-Portfolio: https://varshitha-pavuluri.netlify.app/
 
 ---
 
