@@ -1,5 +1,4 @@
-# Language-Translater
-# 🌍 Language Translation Bot using Amazon Lex
+#  Language Translation Bot using Amazon Lex
 
 ## 📌 Project Overview
 
